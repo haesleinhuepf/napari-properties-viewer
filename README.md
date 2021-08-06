@@ -6,6 +6,8 @@
 [![tests](https://github.com/kevinyamauchi/napari-properties-viewer/workflows/tests/badge.svg)](https://github.com/kevinyamauchi/napari-properties-viewer/actions)
 [![codecov](https://codecov.io/gh/kevinyamauchi/napari-properties-viewer/branch/master/graph/badge.svg)](https://codecov.io/gh/kevinyamauchi/napari-properties-viewer)
 
+my change
+
 A viewer for napari layer properties
 
 ![image](resources/properties_viewer.gif)
